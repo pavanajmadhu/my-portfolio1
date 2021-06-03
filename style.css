@@ -1,0 +1,34 @@
+
+
+.header{
+    border: groove 6px ;
+    display:flex;
+    justify-content:space-between;
+    background-color: red;
+    
+ 
+   
+}
+.project{
+    display: flex;
+      flex-wrap:wrap;
+    justify-content:space-evenly;
+    margin: 200px;
+    padding:100px
+}
+img{
+    width:200px;
+    height:200px
+}
+#img3{
+    width:80px;
+    height: 80px;
+}
+#img4{
+    width:80px;
+    height: 80px;
+}
+#img5{
+    width:80px;
+    height: 80px;
+}

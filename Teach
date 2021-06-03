@@ -1,0 +1,20 @@
+Style tags - Internal
+
+  <style>
+        *{
+            border: solid 2px;
+        }
+        p{
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+        }
+        #a{
+            font-family:fantasy
+   
+        }
+        .header{
+            border: dashed 2px;
+            font-style:italic;
+        }
+
+    </style>
+
